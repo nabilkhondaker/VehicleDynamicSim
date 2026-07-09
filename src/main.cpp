@@ -5,7 +5,7 @@
 
 int main() {
     std::cout << "==========================================\n";
-    std::cout << "  ApexDynamics High-Performance Simulator \n";
+    std::cout << "  ApexDynamics Hi- Sim By Nabil Khondaker \n";
     std::cout << "==========================================\n";
     
     std::cout << "OpenMP Threads Available: " << omp_get_max_threads() << "\n\n";
