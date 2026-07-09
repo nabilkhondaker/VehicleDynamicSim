@@ -1,4 +1,4 @@
-# ApexDynamicsSim 🏎️
+# Vehicle Dynamics Simulator 🏎️
 Engineered by Nabil Khondaker.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-20-blue.svg)
@@ -6,7 +6,7 @@ Engineered by Nabil Khondaker.
 ![OpenMP](https://img.shields.io/badge/OpenMP-Enabled-orange.svg)
 ![Eigen](https://img.shields.io/badge/Eigen-3.3%2B-red.svg)
 
-**ApexDynamicsSim** is an enterprise-grade, high-performance vehicle dynamics simulator written in modern C++. It is designed for motorsport and mechatronics applications, featuring real-time Runge-Kutta 4 (RK4) state integration, multi-threaded tire physics via the Pacejka Magic Formula, and active control systems like ABS and ESC.
+**Vehicle Dynamics Simulator** is an enterprise-grade, high-performance vehicle dynamics simulator written in modern C++. It is designed for motorsport and mechatronics applications, featuring real-time Runge-Kutta 4 (RK4) state integration, multi-threaded tire physics via the Pacejka Magic Formula, and active control systems like ABS and ESC.
 
 ---
 
