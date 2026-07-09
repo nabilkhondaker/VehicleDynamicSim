@@ -79,4 +79,4 @@ VehicleDynamicSim/
 
 --- 
 
-# *More information coming soon, as this project is a work in progress!*
+## *More information coming soon, as this project is a work in progress!*
