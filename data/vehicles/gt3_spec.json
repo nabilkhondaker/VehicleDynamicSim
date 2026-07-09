@@ -1,1 +1,19 @@
-
+{
+  "vehicle": {
+    "name": "GT3 Standard Chassis",
+    "mass_kg": 1450.0,
+    "wheelbase_m": 2.65,
+    "track_width_m": 1.62,
+    "cg_height_m": 0.35,
+    "aero": {
+      "frontal_area": 2.2,
+      "cd": 0.45,
+      "cl_front": -0.8,
+      "cl_rear": -1.2
+    },
+    "suspension": {
+      "spring_rate_front_N_m": 150000,
+      "spring_rate_rear_N_m": 160000
+    }
+  }
+}
