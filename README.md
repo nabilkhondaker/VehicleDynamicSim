@@ -42,7 +42,7 @@ Engineered by Nabil Khondaker.
 
 ---
 
-## 📁 Directory Structure
+## 📁 Project Structure
 
 ```
 VehicleDynamicSim/
