@@ -1,4 +1,4 @@
-# Vehicle Dynamics Simulator 🏎️
+# Vehicle Dynamics Sim
 Engineered by Nabil Khondaker.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-20-blue.svg)
