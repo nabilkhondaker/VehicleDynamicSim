@@ -6,7 +6,7 @@ Engineered by Nabil Khondaker.
 ![OpenMP](https://img.shields.io/badge/OpenMP-Enabled-orange.svg)
 ![Eigen](https://img.shields.io/badge/Eigen-3.3%2B-red.svg)
 
-**Vehicle Dynamics Simulator** is an enterprise-grade, high-performance vehicle dynamics simulator written in modern C++. It is designed for motorsport and mechatronics applications, featuring real-time Runge-Kutta 4 (RK4) state integration, multi-threaded tire physics via the Pacejka Magic Formula, and active control systems like ABS and ESC.
+**Vehicle Dynamics Simulator** is a high-performance vehicle dynamics simulator written in modern C++. It is designed for motorsport and mechatronics applications, featuring real-time Runge-Kutta 4 (RK4) state integration, multi-threaded tire physics via the Pacejka Magic Formula, and active control systems like ABS and ESC.
 
 ---
 
@@ -32,7 +32,7 @@ Engineered by Nabil Khondaker.
 ## ✨ Key Features
 
 * **14-DOF Multi-body Physics:** Full rigid-body dynamics for the chassis (6 DOF), wheel vertical motion (4 DOF), and wheel spin (4 DOF) solved using Eigen.
-* **High-Fidelity Tire Model:** Pacejka 2002 Magic Formula implementation for nonlinear tire forces.
+* **High-Performance Tire Model:** Pacejka 2002 Magic Formula implementation for nonlinear tire forces.
 * **Parallel Processing:** Heavy physics calculations (tire contact patches, suspension kinematics) are parallelized using OpenMP to ensure real-time performance.
 * **Active Mechatronics Systems:** * Bang-bang ABS Controller based on tire slip ratios.
   * Electronic Stability Control (ESC) utilizing asymmetric brake vectoring.
